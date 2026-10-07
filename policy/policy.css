@@ -1,0 +1,13 @@
+.policy-document{max-width:850px;margin:30px auto 80px;padding:0 32px;font-size:16px;line-height:1.8;overflow-wrap:break-word}
+.policy-document>h1{font-size:clamp(32px,5vw,52px);line-height:1.25;letter-spacing:-.04em;color:var(--blue);margin:0 0 42px;padding-bottom:30px;border-bottom:2px solid var(--line)}
+.policy-original h2{font-family:Manrope,Arial,sans-serif;font-size:25px;line-height:1.4;letter-spacing:0;font-weight:800;word-spacing:normal;margin:0 0 28px}
+.policy-original h3{font-size:20px;line-height:1.5;margin:42px 0 18px;font-weight:800}
+.policy-original h4{font-size:16px;line-height:1.6;margin:26px 0 12px;font-weight:800}
+.policy-original p{margin:0 0 20px}
+.policy-original ul{padding-left:26px;margin:12px 0 22px}
+.policy-original li{padding-left:3px;margin:7px 0}
+.policy-original a{color:var(--blue);text-decoration:underline;text-underline-offset:3px}
+.policy-footer{max-width:850px;margin:auto;padding:22px 32px 35px;border-top:1px solid var(--line);font-size:14px}
+.policy-footer a{text-decoration:underline;text-underline-offset:3px}
+@media(max-width:580px){.policy-document{margin-top:20px;padding:0 22px}.policy-document>h1{margin-bottom:30px;padding-bottom:22px}.policy-original h3{font-size:18px;margin-top:32px}.policy-footer{padding-left:22px;padding-right:22px}.site-header nav{font-size:12px}}
+@media print{body{background:#fff;color:#000}.site-header,.policy-footer{display:none}.policy-document{max-width:none;margin:0;padding:0}.policy-document>h1{color:#000}.policy-original a{color:#000}}

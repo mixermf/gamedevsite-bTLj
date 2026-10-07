@@ -1,0 +1,199 @@
+{
+  "checked": "2026-10-07",
+  "developer": "https://play.google.com/store/apps/dev?id=8556297894808618230",
+  "note": "HTTP 404 listings remain portfolio projects; Google Play indexed screenshots were used for these entries.",
+  "projects": [
+    {
+      "slug": "dead-online",
+      "id": "com.ArtuomGameStudio.DTOnline",
+      "title": "DeadTubbies Online",
+      "url": "https://play.google.com/store/apps/details?id=com.ArtuomGameStudio.DTOnline&hl=en",
+      "files": [
+        {
+          "file": "dead-online-icon.webp",
+          "source": "https://play-lh.googleusercontent.com/AD44Dlan2qm7lBU84OS5CorPx10mR7g6DLOIESYjPDbXx5QzsdVWzfsVQUhFjSYJckACQ03oKuC2aQuDv5K7dw=w240-h480"
+        },
+        {
+          "file": "dead-online-1.webp",
+          "source": "https://play-lh.googleusercontent.com/rbWM9zYVqPvZe8t-5PPs7k5h_iF4gB4KKRS2NTSxrqohAtprv1Oclj99FS32i2C4MoECO9XhuNwH9uDbgB_6uqs=w526-h296"
+        },
+        {
+          "file": "dead-online-2.webp",
+          "source": "https://play-lh.googleusercontent.com/UiCm38EwQhvhfcanoGdDUmbK_VdW5Z0-sU1GM1T1IFPxILK4CO-tH4P40YFZo27uiVbhW44k6LYyJTvqZb3XHow=w526-h296"
+        },
+        {
+          "file": "dead-online-3.webp",
+          "source": "https://play-lh.googleusercontent.com/DoZg9bHR6fQHkuYQ9CHrzHzZWzOv8lbbV59un1UXTr3LZep7uB3OlCjO2SUKWrOCBpX6tQ4vdsiYB-If5QhfZg=w526-h296"
+        }
+      ]
+    },
+    {
+      "slug": "dead-last",
+      "id": "com.ArtuomGameStudio.DT1",
+      "title": "DeadTubbies: The Last Mistake",
+      "url": "https://play.google.com/store/apps/details?id=com.ArtuomGameStudio.DT1&hl=en",
+      "files": [
+        {
+          "file": "dead-last-icon.webp",
+          "source": "https://play-lh.googleusercontent.com/YI9qB4y-yVF46VSrxXSa_i8bgSlSDOGewHcJqMX-pMqFCXNUqa3ds0LMkEsoEhLGevr-38Y_Clhj08XGmHVnuw=w240-h480"
+        },
+        {
+          "file": "dead-last-1.webp",
+          "source": "https://play-lh.googleusercontent.com/WUMUPuwRj3nZZDb22jWxr2XkcSQGOugbt7C6K8HbKMNaV_1HdXs6rdIc_zEuTh8NnGWcnZwGhvKKHkY1deKBBA=w526-h296"
+        },
+        {
+          "file": "dead-last-2.webp",
+          "source": "https://play-lh.googleusercontent.com/pp3uxrGZXzIz5BJs6ua88m5g7M3XmOHLxC8FaiM66QjHGc9M02wXH4O_AGYDSzNQu1iX_5vHEs2k9tH9RMX81A=w526-h296"
+        },
+        {
+          "file": "dead-last-3.webp",
+          "source": "https://play-lh.googleusercontent.com/RgbkEJtorGvbTiz8hUh7HEa72TmRsX9i0MnJQzP72A55Q4C_8fLJexAhhiFbL1_OMopOeWwTc3VRjVyBsr9dWYM=w526-h296"
+        }
+      ]
+    },
+    {
+      "slug": "dead-reason",
+      "id": "com.ArtuomGameStudio.DT2",
+      "title": "DeadTubbies 2: The Reason",
+      "url": "https://play.google.com/store/apps/details?id=com.ArtuomGameStudio.DT2&hl=en",
+      "files": [
+        {
+          "file": "dead-reason-icon.webp",
+          "source": "https://play-lh.googleusercontent.com/6-LSIW9KzXDIYnqGDiisHHJe2pCft7wIvTV4i67k3p8031cRNwumQxYewn3cEzwamAvc3NojJ77quuQBQNlT2g=w240-h480"
+        },
+        {
+          "file": "dead-reason-1.webp",
+          "source": "https://play-lh.googleusercontent.com/NgB-DbCjs1GjaE8qF10mGshk2zNq6gFWBv0r37YqIWUzzLm70m_g5JcQo4wlZbwLfS1dQG3kuwZDkZb70S4XEw=w526-h296"
+        },
+        {
+          "file": "dead-reason-2.webp",
+          "source": "https://play-lh.googleusercontent.com/1WejAR7Nkj3yPG_rxL5OrwyrV_ULTuTY_6w7-8tilnIOQ_3MRpt9wKuO-P5cUgrnUNOk8OU_3_C19nqWqlD8sQ=w526-h296"
+        },
+        {
+          "file": "dead-reason-3.webp",
+          "source": "https://play-lh.googleusercontent.com/cQXXVDwes9aziytXgmdNihF0czntFaitU0tUtIP99BvTQkoikrkQbiQsjIvx-mJGdPHCvYLbYuxzrzhxXuCCrQ=w526-h296"
+        }
+      ]
+    },
+    {
+      "slug": "coin",
+      "id": "com.cubeclickercoin.app",
+      "title": "Coin Block Clicker: Tap Game",
+      "url": "https://play.google.com/store/apps/details?id=com.cubeclickercoin.app&hl=en",
+      "files": [
+        {
+          "file": "coin-icon.webp",
+          "source": "https://play-lh.googleusercontent.com/mLB-rGmBOZDxdDG0h3pU4ZKR_iX-r1Dvfi2kXbBHkyX-YgQADRW37T93fIRJsQyQIRXipl9WoyiR7Br795Fh=w240-h480"
+        },
+        {
+          "file": "coin-1.webp",
+          "source": "https://play-lh.googleusercontent.com/PRHlB4wVNGlxfTPjT25O3twH7M075YpMI-hwzil3plv3LlvPUDWaddhai0rDUoWTmuwWbWJJPM2s0KmY-NGNvZM=w526-h296"
+        },
+        {
+          "file": "coin-2.webp",
+          "source": "https://play-lh.googleusercontent.com/TAtuR3JO3r68OSEhldqvdqjpZ7LQbXZ1xLaeavkJND0K7vUustp5y8IR0WF4kebk09Bh3LqRwbsHMAY8Tlbg=w526-h296"
+        },
+        {
+          "file": "coin-3.webp",
+          "source": "https://play-lh.googleusercontent.com/OEFD29YI72Qw64Gj7sB3URIL_1gjRvsIAQCRwtreI2Rw-LxVLSWs-megzG5mnajRr3yYoFCxlj8w0Td7Nb_F7g=w526-h296"
+        }
+      ]
+    },
+    {
+      "slug": "word",
+      "id": "com.Uniline.DailyWordPuzzle",
+      "title": "Daily Word Puzzle – Tile Swap",
+      "url": "https://play.google.com/store/apps/details?id=com.Uniline.DailyWordPuzzle&hl=en",
+      "files": [
+        {
+          "file": "word-icon.webp",
+          "source": "https://play-lh.googleusercontent.com/s-yWizbwYfeGV-Tm6OBbVzjwDoAop35ws4JdmijfvC9XZvMSMU2h6vs8xmg6bXQfkjAMiDKctNQ6DoogSUNPAQ=w240-h480"
+        },
+        {
+          "file": "word-1.webp",
+          "source": "https://play-lh.googleusercontent.com/ptkrje_cfXUbCc_h1cdEJ_SPyr0_YUd_B5lSyfgZaRNAQ6geODQZi7G2bxI8w3KZRUM9F6QSSB0veW8Sxl5t0zA=w526-h296"
+        },
+        {
+          "file": "word-2.webp",
+          "source": "https://play-lh.googleusercontent.com/FzNLRl62EzjLAS3OCCZV9b6OfzKDuVz46aU2YKznfh_MukhKB-lSMb11CR7Qo_mWsUitJHH2lyZw_RAhybplaA=w526-h296"
+        },
+        {
+          "file": "word-3.webp",
+          "source": "https://play-lh.googleusercontent.com/BgUnBXWFj2GoCKOWgzOa9c6gL5Q7wQ74UfIAMWsU6gf7TqnNHnx8DAwYGZLvYGPxy4BLh_0BbmcEm7uDrAWDBQ=w526-h296"
+        }
+      ]
+    },
+    {
+      "slug": "what-if",
+      "id": "com.whatif.whatiffapp",
+      "title": "What If: Your personal stories",
+      "url": "https://play.google.com/store/apps/details?id=com.whatif.whatiffapp&hl=en",
+      "files": [
+        {
+          "file": "what-if-icon.webp",
+          "source": "https://play-lh.googleusercontent.com/7VykDQzFGfEAfHtSa81zwWOL896C-sM_in6Ov7Urg9ssnhj2vwShu-h2cmSLijx21vr4sEPlnzqir6WsNpDV4w=w240-h480"
+        },
+        {
+          "file": "what-if-1.webp",
+          "source": "https://play-lh.googleusercontent.com/VQ10IP18jwndaidoQjSA_9NPjbarX4CMfNps4R0DEIPsWWie20HTjgYRRHsOFqjSEt9ZhtspZ9GaSQoPj7KdDQ=w526-h296"
+        },
+        {
+          "file": "what-if-2.webp",
+          "source": "https://play-lh.googleusercontent.com/hAwt-XXqLd29Po6S1txsrtq_HvHLt3sWk725fMYl14aJwlNZ1SG5ByZ5jpMi32lvrYv9jdA4LuPGkZ-SvY5dxg=w526-h296"
+        },
+        {
+          "file": "what-if-3.webp",
+          "source": "https://play-lh.googleusercontent.com/Qwv8pVR1QcSMl3l2SBAVBRw1EnplIINRLyDY8Ly3-jdoZej6mxyKRZuG3sz6ZOpPVrKiFNTC2hd7u1dyz_i9pQ=w526-h296"
+        }
+      ]
+    },
+    {
+      "slug": "doom",
+      "id": "com.doomdivers.warrobots.idlerpg",
+      "url": "https://play.google.com/store/apps/details?id=com.doomdivers.warrobots.idlerpg&hl=en",
+      "unavailable": 404
+    },
+    {
+      "slug": "rails",
+      "id": "com.uniline.toontrainpuzzle",
+      "url": "https://play.google.com/store/apps/details?id=com.uniline.toontrainpuzzle&hl=en",
+      "unavailable": 404
+    },
+    {
+      "slug": "catch",
+      "id": "com.uniline.catchorfallguys",
+      "url": "https://play.google.com/store/apps/details?id=com.uniline.catchorfallguys&hl=en",
+      "unavailable": 404
+    },
+    {
+      "slug": "atlas",
+      "id": "com.blockpuzzlepocketatlas",
+      "title": "Pocket Atlas: Block Puzzle",
+      "url": "https://play.google.com/store/apps/details?id=com.blockpuzzlepocketatlas&hl=en",
+      "files": [
+        {
+          "file": "atlas-icon.webp",
+          "source": "https://play-lh.googleusercontent.com/gReOUF3QCfeA11_ZKXhGWnE6UkAVzW7a7BlZz-hxSKdByRQ5qqMnK9bPf9mIJeg34321M_4sIwR1Eh6eQOIj=w240-h480"
+        },
+        {
+          "file": "atlas-1.webp",
+          "source": "https://play-lh.googleusercontent.com/svZ1xbx9c-jmeNjXPB2vZZcK1se_Bs3UuXRX2SypeSuOI1KTj_vz9wXbYn-M_kv-kJynNivuFM8JK5fxGPuEyfQ=w526-h296"
+        },
+        {
+          "file": "atlas-2.webp",
+          "source": "https://play-lh.googleusercontent.com/In75SiPUUGInj5Dy1ecV8F3BnbuQw55A-IrRZ5L8F85uHMEttVH2suux5dK_6ozUe1f_oh8-bSDPiU8I5tGAXTk=w526-h296"
+        },
+        {
+          "file": "atlas-3.webp",
+          "source": "https://play-lh.googleusercontent.com/UyOv6wtm6vbf3s0WTs2i27FlvBlMdXgGBOJSTgxm6-kHxCuDCm_xucwAkf8iAHB03vCjqkr7YffrQj9xB27lhbw=w526-h296"
+        }
+      ]
+    }
+  ],
+  "privacyPolicy": {
+    "source": "https://unilinegames.github.io/site/policy_android_eng.html",
+    "copied": "2026-10-07",
+    "path": "/policy",
+    "changes": "Added a prominent Privacy Policy heading before the unchanged original document body."
+  }
+}

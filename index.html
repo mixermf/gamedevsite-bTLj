@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+ <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+ <meta name="theme-color" content="#EDF0F7">
+ <title>Uniline Games — Small studio. Many worlds.</title>
+ <meta name="description" content="Explore the games of Uniline Games: DeadTubbies, Coin Block Clicker, Pocket Atlas, Tiny Rails, and more. Find your next world to play in.">
+ <meta property="og:title" content="Uniline Games — Small studio. Many worlds."><meta property="og:description" content="Horror, puzzles, arcade adventures, and a little curiosity. Explore our collection."><meta property="og:type" content="website">
+ <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+ <link rel="preload" href="assets/unbounded.woff2" as="font" type="font/woff2" crossorigin>
+ <link rel="stylesheet" href="styles.css"><script src="script.js" defer></script>
+</head>
+<body>
+ <a class="skip-link" href="#collection">Skip to games</a><div class="scroll-progress" aria-hidden="true"></div>
+ <header class="site-header"><a class="brand" href="#home" aria-label="Uniline Games home"><span class="brand-mark" aria-hidden="true">u.</span><span>uniline<span class="brand-games">games</span></span></a>
+ <button class="menu-toggle js-only" aria-expanded="false" aria-controls="main-nav" aria-label="Open navigation"><span></span><span></span></button>
+ <nav id="main-nav" aria-label="Main navigation"><a href="#collection">The games</a><a href="#studio">The studio</a><a class="nav-store" href="https://play.google.com/store/apps/dev?id=8556297894808618230" target="_blank" rel="noopener noreferrer">Google Play <span aria-hidden="true">▷</span></a></nav></header>
+ <main>
+ <section class="hero section-wrap" id="home" aria-labelledby="hero-title">
+  <div class="hero-copy"><p class="eyebrow"><span class="tiny-cross" aria-hidden="true">✳</span> Independent game studio</p><h1 id="hero-title">Small studio.<br>Many <span class="worlds">worlds<span class="word-underline" aria-hidden="true"></span></span>.</h1><p class="hero-description">A little curiosity. A new challenge.<br>Something you didn’t expect.</p><a class="button button-dark" href="#collection">Explore the games <span class="button-dot" aria-hidden="true"></span></a><p class="hero-note">Made for the small screen. Played your way.</p></div>
+  <div class="hero-playground" style="--scene-color:#CAE7FD">
+   <div class="scene-label"><span>Pick your next world</span><span class="scene-symbol" aria-hidden="true">✳</span></div>
+   <div class="scene-stage" id="hero-scene"><div class="scene-circle" aria-hidden="true"></div><div class="scene-back"><img id="hero-image-back" src="assets/coin-2.webp" width="506" height="900" alt="" fetchpriority="high"></div><div class="scene-front"><img id="hero-image" src="assets/coin-1.webp" width="416" height="900" alt="Coin Block Clicker gameplay" fetchpriority="high"></div><img class="scene-icon" id="hero-icon" src="assets/coin-icon.webp" width="100" height="100" alt=""><span class="fun-sticker" aria-hidden="true">FOR<br>FUN.</span></div>
+   <div class="scene-caption"><span id="hero-genre">Idle · Clicker</span><button class="text-button js-only" id="hero-preview" data-game="coin">Take a look <span aria-hidden="true">+</span></button></div>
+   <div class="scene-selector js-only" role="group" aria-label="Featured games"><button data-scene="coin" aria-pressed="true"><img src="assets/coin-icon.webp" width="32" height="32" alt="">Coin Block</button><button data-scene="dead-online" aria-pressed="false"><img src="assets/dead-online-icon.webp" width="32" height="32" alt="">DeadTubbies</button><button data-scene="atlas" aria-pressed="false"><img src="assets/atlas-icon.webp" width="32" height="32" alt="">Pocket Atlas</button></div>
+  </div>
+ </section>
+ <div class="world-band" aria-hidden="true"><div class="world-band-track"><span>ONE STUDIO</span><span class="band-star">✳</span><span>MANY WAYS TO PLAY</span><span class="band-star">✳</span><span>UNILINE GAMES</span><span class="band-star">✳</span><span>ONE STUDIO</span><span class="band-star">✳</span><span>MANY WAYS TO PLAY</span></div></div>
+ <section class="collection section-wrap" id="collection" aria-labelledby="collection-title"><div class="section-heading reveal"><div><p class="eyebrow">The collection</p><h2 id="collection-title">Find your next<br><span>“one more try.”</span></h2></div><p>From quiet puzzles to uneasy nights.<br>There’s more than one way to play.</p></div>
+ <div class="collection-toolbar"><div class="filters js-only" role="group" aria-label="Filter projects"><button data-filter="all" aria-pressed="true">All projects <span>10</span></button><button data-filter="horror" aria-pressed="false">Horror</button><button data-filter="puzzle" aria-pressed="false">Puzzle</button><button data-filter="arcade" aria-pressed="false">Arcade & action</button><button data-filter="experiments" aria-pressed="false">Experiments</button></div><span class="result-count js-only" role="status" aria-live="polite">10 projects</span></div>
+ <div class="game-grid"><article class="game-card reveal" data-category="arcade" id="project-coin" style="--card-color:#CAE7FD">
+ <div class="game-art portrait">
+  <img class="art-first" src="assets/coin-1.webp" width="405" height="900" alt="Coin Block Clicker — gameplay screenshot" loading="lazy">
+  <img class="art-second" src="assets/coin-2.webp" width="405" height="900" alt="" loading="lazy">
+  <span class="genre-pill">Idle · Clicker</span>
+  <button class="preview-button js-only" data-game="coin" aria-label="Preview Coin Block Clicker"><span class="play-symbol" aria-hidden="true"></span> Preview</button>
+ </div>
+ <div class="game-info"><img class="app-icon" src="assets/coin-icon.webp" width="52" height="52" alt="" loading="lazy"><div><h3>Coin Block Clicker</h3><p>Tap Game</p></div></div>
+ <div class="card-bottom"><span>Android</span><a href="https://play.google.com/store/apps/details?id=com.cubeclickercoin.app" target="_blank" rel="noopener noreferrer" aria-label="Coin Block Clicker on Google Play">Google Play <span class="small-play" aria-hidden="true">▷</span></a></div>
+</article>
+<article class="game-card reveal" data-category="horror" id="project-dead-online" style="--card-color:#D3D8E0">
+ <div class="game-art landscape">
+  <img class="art-first" src="assets/dead-online-1.webp" width="1100" height="619" alt="DeadTubbies Online — gameplay screenshot" loading="lazy">
+  <img class="art-second" src="assets/dead-online-2.webp" width="1100" height="619" alt="" loading="lazy">
+  <span class="genre-pill">Horror · Multiplayer</span>
+  <button class="preview-button js-only" data-game="dead-online" aria-label="Preview DeadTubbies Online"><span class="play-symbol" aria-hidden="true"></span> Preview</button>
+ </div>
+ <div class="game-info"><img class="app-icon" src="assets/dead-online-icon.webp" width="52" height="52" alt="" loading="lazy"><div><h3>DeadTubbies Online</h3><p>A familiar world. An unfamiliar feeling.</p></div></div>
+ <div class="card-bottom"><span>Android</span><a href="https://play.google.com/store/apps/details?id=com.ArtuomGameStudio.DTOnline" target="_blank" rel="noopener noreferrer" aria-label="DeadTubbies Online on Google Play">Google Play <span class="small-play" aria-hidden="true">▷</span></a></div>
+</article>
+<article class="game-card reveal" data-category="puzzle" id="project-atlas" style="--card-color:#E1E8BC">
+ <div class="game-art portrait">
+  <img class="art-first" src="assets/atlas-1.webp" width="405" height="900" alt="Pocket Atlas — gameplay screenshot" loading="lazy">
+  <img class="art-second" src="assets/atlas-2.webp" width="405" height="900" alt="" loading="lazy">
+  <span class="genre-pill">Puzzle · Tangram</span>
+  <button class="preview-button js-only" data-game="atlas" aria-label="Preview Pocket Atlas"><span class="play-symbol" aria-hidden="true"></span> Preview</button>
+ </div>
+ <div class="game-info"><img class="app-icon" src="assets/atlas-icon.webp" width="52" height="52" alt="" loading="lazy"><div><h3>Pocket Atlas</h3><p>Block Puzzle</p></div></div>
+ <div class="card-bottom"><span>Android</span><a href="https://play.google.com/store/apps/details?id=com.blockpuzzlepocketatlas" target="_blank" rel="noopener noreferrer" aria-label="Pocket Atlas on Google Play">Google Play <span class="small-play" aria-hidden="true">▷</span></a></div>
+</article>
+<article class="game-card reveal" data-category="puzzle" id="project-word" style="--card-color:#E3D7FA">
+ <div class="game-art portrait">
+  <img class="art-first" src="assets/word-1.webp" width="405" height="900" alt="Daily Word Puzzle — gameplay screenshot" loading="lazy">
+  <img class="art-second" src="assets/word-2.webp" width="405" height="900" alt="" loading="lazy">
+  <span class="genre-pill">Puzzle · Words</span>
+  <button class="preview-button js-only" data-game="word" aria-label="Preview Daily Word Puzzle"><span class="play-symbol" aria-hidden="true"></span> Preview</button>
+ </div>
+ <div class="game-info"><img class="app-icon" src="assets/word-icon.webp" width="52" height="52" alt="" loading="lazy"><div><h3>Daily Word Puzzle</h3><p>Tile Swap</p></div></div>
+ <div class="card-bottom"><span>Android</span><a href="https://play.google.com/store/apps/details?id=com.Uniline.DailyWordPuzzle" target="_blank" rel="noopener noreferrer" aria-label="Daily Word Puzzle on Google Play">Google Play <span class="small-play" aria-hidden="true">▷</span></a></div>
+</article>
+<article class="game-card reveal" data-category="horror" id="project-dead-last" style="--card-color:#D8DFDF">
+ <div class="game-art landscape">
+  <img class="art-first" src="assets/dead-last-1.webp" width="1100" height="619" alt="DeadTubbies — gameplay screenshot" loading="lazy">
+  <img class="art-second" src="assets/dead-last-2.webp" width="1100" height="619" alt="" loading="lazy">
+  <span class="genre-pill">Horror · Story</span>
+  <button class="preview-button js-only" data-game="dead-last" aria-label="Preview DeadTubbies"><span class="play-symbol" aria-hidden="true"></span> Preview</button>
+ </div>
+ <div class="game-info"><img class="app-icon" src="assets/dead-last-icon.webp" width="52" height="52" alt="" loading="lazy"><div><h3>DeadTubbies</h3><p>The Last Mistake</p></div></div>
+ <div class="card-bottom"><span>Android</span><a href="https://play.google.com/store/apps/details?id=com.ArtuomGameStudio.DT1" target="_blank" rel="noopener noreferrer" aria-label="DeadTubbies on Google Play">Google Play <span class="small-play" aria-hidden="true">▷</span></a></div>
+</article>
+<article class="game-card reveal" data-category="horror" id="project-dead-reason" style="--card-color:#DCCCD0">
+ <div class="game-art landscape">
+  <img class="art-first" src="assets/dead-reason-1.webp" width="1100" height="619" alt="DeadTubbies 2 — gameplay screenshot" loading="lazy">
+  <img class="art-second" src="assets/dead-reason-2.webp" width="1100" height="619" alt="" loading="lazy">
+  <span class="genre-pill">Horror · Prequel</span>
+  <button class="preview-button js-only" data-game="dead-reason" aria-label="Preview DeadTubbies 2"><span class="play-symbol" aria-hidden="true"></span> Preview</button>
+ </div>
+ <div class="game-info"><img class="app-icon" src="assets/dead-reason-icon.webp" width="52" height="52" alt="" loading="lazy"><div><h3>DeadTubbies 2</h3><p>The Reason</p></div></div>
+ <div class="card-bottom"><span>Android</span><a href="https://play.google.com/store/apps/details?id=com.ArtuomGameStudio.DT2" target="_blank" rel="noopener noreferrer" aria-label="DeadTubbies 2 on Google Play">Google Play <span class="small-play" aria-hidden="true">▷</span></a></div>
+</article>
+<article class="game-card reveal" data-category="puzzle" id="project-rails" style="--card-color:#F5DEC8">
+ <div class="game-art portrait">
+  <img class="art-first" src="assets/rails-1.webp" width="405" height="900" alt="Tiny Rails — gameplay screenshot" loading="lazy">
+  <img class="art-second" src="assets/rails-2.webp" width="405" height="900" alt="" loading="lazy">
+  <span class="genre-pill">Puzzle · Timing</span>
+  <button class="preview-button js-only" data-game="rails" aria-label="Preview Tiny Rails"><span class="play-symbol" aria-hidden="true"></span> Preview</button>
+ </div>
+ <div class="game-info"><img class="app-icon" src="assets/rails-icon.webp" width="52" height="52" alt="" loading="lazy"><div><h3>Tiny Rails</h3><p>Train Puzzle</p></div></div>
+ <div class="card-bottom"><span>Android</span><span class="unavailable">Store listing unavailable</span></div>
+</article>
+<article class="game-card reveal" data-category="arcade" id="project-doom" style="--card-color:#FFD4C4">
+ <div class="game-art portrait">
+  <img class="art-first" src="assets/doom-1.webp" width="405" height="900" alt="DoomDivers — gameplay screenshot" loading="lazy">
+  <img class="art-second" src="assets/doom-2.webp" width="405" height="900" alt="" loading="lazy">
+  <span class="genre-pill">Action · Idle RPG</span>
+  <button class="preview-button js-only" data-game="doom" aria-label="Preview DoomDivers"><span class="play-symbol" aria-hidden="true"></span> Preview</button>
+ </div>
+ <div class="game-info"><img class="app-icon" src="assets/doom-icon.webp" width="52" height="52" alt="" loading="lazy"><div><h3>DoomDivers</h3><p>Battle Drone Attack</p></div></div>
+ <div class="card-bottom"><span>Android</span><span class="unavailable">Store listing unavailable</span></div>
+</article>
+<article class="game-card reveal" data-category="arcade" id="project-catch" style="--card-color:#CBE5CF">
+ <div class="game-art portrait">
+  <img class="art-first" src="assets/catch-1.webp" width="405" height="900" alt="Catch or Fall io — gameplay screenshot" loading="lazy">
+  <img class="art-second" src="assets/catch-2.webp" width="405" height="900" alt="" loading="lazy">
+  <span class="genre-pill">Arcade · Obstacle race</span>
+  <button class="preview-button js-only" data-game="catch" aria-label="Preview Catch or Fall io"><span class="play-symbol" aria-hidden="true"></span> Preview</button>
+ </div>
+ <div class="game-info"><img class="app-icon" src="assets/catch-icon.webp" width="52" height="52" alt="" loading="lazy"><div><h3>Catch or Fall io</h3><p>STAR Dudes</p></div></div>
+ <div class="card-bottom"><span>Android</span><span class="unavailable">Store listing unavailable</span></div>
+</article>
+<article class="game-card reveal" data-category="experiments" id="project-what-if" style="--card-color:#D4D2E6">
+ <div class="game-art portrait">
+  <img class="art-first" src="assets/what-if-1.webp" width="405" height="900" alt="What If — gameplay screenshot" loading="lazy">
+  <img class="art-second" src="assets/what-if-2.webp" width="405" height="900" alt="" loading="lazy">
+  <span class="genre-pill">Experiment · AI portraits</span>
+  <button class="preview-button js-only" data-game="what-if" aria-label="Preview What If"><span class="play-symbol" aria-hidden="true"></span> Preview</button>
+ </div>
+ <div class="game-info"><img class="app-icon" src="assets/what-if-icon.webp" width="52" height="52" alt="" loading="lazy"><div><h3>What If</h3><p>Your personal stories</p></div></div>
+ <div class="card-bottom"><span>Beyond games</span><a href="https://play.google.com/store/apps/details?id=com.whatif.whatiffapp" target="_blank" rel="noopener noreferrer" aria-label="What If on Google Play">Google Play <span class="small-play" aria-hidden="true">▷</span></a></div>
+</article></div>
+ </section>
+ <section class="studio section-wrap" id="studio" aria-labelledby="studio-title"><div class="studio-inner reveal"><div class="studio-emblem" aria-hidden="true"><span>u.</span><small>FOR FUN</small></div><div class="studio-copy"><p class="eyebrow">The studio</p><h2 id="studio-title">Curiosity.<br>With a play button.</h2><p>Uniline Games brings together very different worlds: unsettling stories, playful arcade loops, and puzzles for a quiet moment.</p><p>Explore the collection, find something that clicks, and give it a play.</p><div class="studio-links"><a class="button button-dark" href="https://play.google.com/store/apps/dev?id=8556297894808618230" target="_blank" rel="noopener noreferrer">Our Google Play collection <span aria-hidden="true">▷</span></a><a class="contact-link" href="mailto:myworkakk@gmail.com">Get in touch</a></div></div></div></section>
+ </main>
+ <footer class="site-footer section-wrap"><div class="footer-top"><a class="brand" href="#home"><span class="brand-mark" aria-hidden="true">u.</span><span>uniline<span class="brand-games">games</span></span></a><p>Little screen. Big possibility.</p><button class="motion-toggle js-only" aria-pressed="true">Motion: on</button></div><div class="footer-bottom"><span>© <span id="year">2026</span> Uniline Games</span><a href="mailto:myworkakk@gmail.com">myworkakk@gmail.com</a><a href="policy/">Privacy Policy</a><a href="#home">Back to top <span aria-hidden="true">↑</span></a></div><div class="footer-wordmark" aria-hidden="true">UNILINE</div></footer>
+ <dialog class="game-dialog" aria-labelledby="dialog-title"><div class="dialog-shell"><button class="dialog-close" aria-label="Close game preview">×</button><div class="dialog-gallery"><img id="dialog-image" src="assets/coin-1.webp" alt=""><div class="gallery-controls"><button id="gallery-prev" aria-label="Previous screenshot">‹</button><span id="gallery-count" aria-live="polite">1 / 3</span><button id="gallery-next" aria-label="Next screenshot">›</button></div></div><div class="dialog-copy"><p class="eyebrow" id="dialog-genre"></p><h2 id="dialog-title"></h2><p class="dialog-subtitle" id="dialog-subtitle"></p><p id="dialog-description"></p><a class="button button-dark" id="dialog-store" target="_blank" rel="noopener noreferrer">View on Google Play <span aria-hidden="true">▷</span></a><p id="dialog-unavailable" hidden>The Google Play listing is currently unavailable. You can still explore the project here.</p></div></div></dialog>
+</body></html>

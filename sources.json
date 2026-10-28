@@ -170,22 +170,89 @@
       "id": "com.blockpuzzlepocketatlas",
       "title": "Pocket Atlas: Block Puzzle",
       "url": "https://play.google.com/store/apps/details?id=com.blockpuzzlepocketatlas&hl=en",
+      "checked": "2026-10-28",
+      "storeUpdated": "2026-10-13",
       "files": [
         {
           "file": "atlas-icon.webp",
-          "source": "https://play-lh.googleusercontent.com/gReOUF3QCfeA11_ZKXhGWnE6UkAVzW7a7BlZz-hxSKdByRQ5qqMnK9bPf9mIJeg34321M_4sIwR1Eh6eQOIj=w240-h480"
+          "source": "https://play-lh.googleusercontent.com/HG7RjHzQRnhbMiwLVKZzeySTZTgXLvyyBma7_svCLo3JBSEvGsS9tneMMZCVM-tQAXmcAbXE8v4yKaT5rfkt=w240-h480-rw"
         },
         {
           "file": "atlas-1.webp",
-          "source": "https://play-lh.googleusercontent.com/svZ1xbx9c-jmeNjXPB2vZZcK1se_Bs3UuXRX2SypeSuOI1KTj_vz9wXbYn-M_kv-kJynNivuFM8JK5fxGPuEyfQ=w526-h296"
+          "source": "https://play-lh.googleusercontent.com/BHYpoFE3NEJb--i377drNJm6JV3vLVhXAE9qKIRJcwj7MKV98tigOIumzrWq0T8kSIy0jTkEpi4iaTZJ7GhPHQ=w720-h1280-rw"
         },
         {
           "file": "atlas-2.webp",
-          "source": "https://play-lh.googleusercontent.com/In75SiPUUGInj5Dy1ecV8F3BnbuQw55A-IrRZ5L8F85uHMEttVH2suux5dK_6ozUe1f_oh8-bSDPiU8I5tGAXTk=w526-h296"
+          "source": "https://play-lh.googleusercontent.com/IU3l4HIWO39t9FaFbbNCPV6dYawSzDoTKFHuf-wqMmvpZvA5fchLbBA4CWAm7lbzAxAeOCwW-xk9qXXzIZRJoA=w720-h1280-rw"
         },
         {
           "file": "atlas-3.webp",
-          "source": "https://play-lh.googleusercontent.com/UyOv6wtm6vbf3s0WTs2i27FlvBlMdXgGBOJSTgxm6-kHxCuDCm_xucwAkf8iAHB03vCjqkr7YffrQj9xB27lhbw=w526-h296"
+          "source": "https://play-lh.googleusercontent.com/cbALXisgSLRF6ryLLPERDpnTOWxqc6CQGXgE-ADXe08xNVdoZw-yo07JYz-bF0ypdxS1k5r_Ua8YZ6Z-MRDEDw=w720-h1280-rw"
+        },
+        {
+          "file": "atlas-4.webp",
+          "source": "https://play-lh.googleusercontent.com/z87TAob1Z4BFuf50cdYQsXIdLlhgbgQ4WtlGuLpQ5vcr2uM_iLN-KSy0_saHUQwxrwJ1-MRmaRXKm-mOQxJz4A=w720-h1280-rw"
+        }
+      ],
+      "descriptionNote": "The portfolio description reflects the connected-route puzzles and collectible discoveries shown in the current official screenshots; the store text still describes tangram-style block fitting."
+    },
+    {
+      "slug": "hex",
+      "id": "com.uniline.hexsortpuzzle",
+      "title": "Hex Cascade: Island Puzzle",
+      "url": "https://play.google.com/store/apps/details?id=com.uniline.hexsortpuzzle&hl=en",
+      "checked": "2026-10-28",
+      "storeUpdated": "2026-10-17",
+      "files": [
+        {
+          "file": "hex-icon.webp",
+          "source": "https://play-lh.googleusercontent.com/Sia7ngrydD_EUJAJmm2PUu1E2ZUwquFe6z3WfP-xurDZ7IIrn9O4Etx-h4F-E7yHTKuyHE1qx05iRCBuuwb1cw=w240-h480-rw"
+        },
+        {
+          "file": "hex-1.webp",
+          "source": "https://play-lh.googleusercontent.com/bTM6gaaOIxa6O5a52822mvBQgjZsS3r09mYhKeYg3N-EQi0gNItK9rhnUXJsXmCAvzqgcZSvTelA0_YF9JzqLQ=w720-h1280-rw"
+        },
+        {
+          "file": "hex-2.webp",
+          "source": "https://play-lh.googleusercontent.com/bLq6pRbc5SuihMolGtYvBPvX_S2LAwjg3Xrmvmj7O4mkYvZsU7UcdzKcO_0nmgRtBkjElE9i69P3M1voaqI1=w720-h1280-rw"
+        },
+        {
+          "file": "hex-3.webp",
+          "source": "https://play-lh.googleusercontent.com/_JfVW01FQmtHpAIRVgiYVl6q3dSSrO7XSJoDchhtoVP-73_ojiHZElqef9BdMLbl_VgjVzGbOqPfAeAYfI8GVg=w720-h1280-rw"
+        },
+        {
+          "file": "hex-4.webp",
+          "source": "https://play-lh.googleusercontent.com/2xLBU4ynUU19-uHnE9cewrDMDhDtwN3T0qbHaBX9b6go5leFJAsfEIGpCdCs6CDsgU3A_y8ldl8NSU3a7v1CgMc=w720-h1280-rw"
+        }
+      ]
+    },
+    {
+      "slug": "bird",
+      "id": "com.angryflappybird.uniline",
+      "title": "Chubby Bird 3D",
+      "url": "https://play.google.com/store/apps/details?id=com.angryflappybird.uniline&hl=en",
+      "checked": "2026-10-28",
+      "storeUpdated": "2026-10-04",
+      "files": [
+        {
+          "file": "bird-icon.webp",
+          "source": "https://play-lh.googleusercontent.com/tqf_Ov5oZIy9FHdKi6fvH7W4NBf91rBB8O90k-M7gg2qurYt09jI3InGgn3prlPZhq8DPscdmo917724qwaWAg=w240-h480-rw"
+        },
+        {
+          "file": "bird-1.webp",
+          "source": "https://play-lh.googleusercontent.com/1lnToUuGSbqy2XzFtEFlsm55ImNTNbOWPqTopOj8d5ifAcDBLzj-irMgWTMbCUTUe7i2O0-WeqWL5c2DXE6sLg=w720-h1280-rw"
+        },
+        {
+          "file": "bird-2.webp",
+          "source": "https://play-lh.googleusercontent.com/vLtsGTdfr1w7dMF85jsNbslmtWPD4daradszF6FNk2AI1HY-CYYkCzbp8ta23VxTdnLsMIKxuJ50z5BUxaRN=w720-h1280-rw"
+        },
+        {
+          "file": "bird-3.webp",
+          "source": "https://play-lh.googleusercontent.com/uieQ6nlq57CY4ZjM__85_TylPsf9s8fhMep2UFYymMsZX7O5-BGh_az1l19MTUh-4Todp_8SEaZDkgS8h9DPpg=w720-h1280-rw"
+        },
+        {
+          "file": "bird-4.webp",
+          "source": "https://play-lh.googleusercontent.com/u91RVF6m3aVT7b6o4yBFGaze1GOmE_aw8H83ciF7t9PaXw--uKvNKSoH_v__YpmGMDoNxM7F16FmZYJ_RyRiqA=w720-h1280-rw"
         }
       ]
     }
@@ -195,5 +262,7 @@
     "copied": "2026-10-07",
     "path": "/policy",
     "changes": "Added a prominent Privacy Policy heading before the unchanged original document body."
-  }
+  },
+  "lastUpdated": "2026-10-28",
+  "updateNote": "Pocket Atlas artwork and description refreshed; Hex Cascade and Chubby Bird 3D added from live Google Play listings. Other projects retain their original verification date."
 }

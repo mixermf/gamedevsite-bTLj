@@ -2,6 +2,30 @@
   'use strict';
   const games = [
   {
+    "slug": "hex",
+    "name": "Hex Cascade",
+    "subtitle": "Island Puzzle",
+    "category": "puzzle",
+    "genre": "Puzzle · Hex sorting",
+    "color": "#C8E6DF",
+    "id": "com.uniline.hexsortpuzzle",
+    "description": "Sort and merge colorful hex stacks to trigger satisfying cascades. Turn puzzle wins into buildings and new island territories, then watch residents farm, fish, and bring their island to life.",
+    "portrait": true,
+    "count": 4
+  },
+  {
+    "slug": "bird",
+    "name": "Chubby Bird 3D",
+    "subtitle": "Tap-to-fly arcade",
+    "category": "arcade",
+    "genre": "Arcade · Flying",
+    "color": "#D5EBEF",
+    "id": "com.angryflappybird.uniline",
+    "description": "Tap to flap through colorful 3D gates. Chain close passes for coin combos, unlock a quirky crew of pilots, and find your rhythm as each flight climbs and dives.",
+    "portrait": true,
+    "count": 4
+  },
+  {
     "slug": "coin",
     "name": "Coin Block Clicker",
     "subtitle": "Tap Game",
@@ -29,12 +53,12 @@
     "name": "Pocket Atlas",
     "subtitle": "Block Puzzle",
     "category": "puzzle",
-    "genre": "Puzzle · Tangram",
-    "color": "#E1E8BC",
+    "genre": "Puzzle · Routes",
+    "color": "#D8D2F1",
     "id": "com.blockpuzzlepocketatlas",
-    "description": "Drag, rotate, and fit colorful pieces into miniature maps. Take your time and discover the next destination.",
+    "description": "Fit colorful pieces into the board and join their paths into one connected route. Solve shape puzzles, reveal new maps, and collect discoveries along the way.",
     "portrait": true,
-    "count": 3
+    "count": 4
   },
   {
     "slug": "word",

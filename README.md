@@ -19,7 +19,7 @@ Set `index.html` as the default document. No URL rewrites or server-side code ar
 ## Features
 
 - Three featured worlds with manual switching and subtle pointer movement.
-- Ten projects, genre filters, real app icons, and screenshot previews.
+- Twelve projects, genre filters, real app icons, and screenshot previews.
 - Hover screenshot transitions and restrained card tilt.
 - Native modal gallery with keyboard arrows, Escape, swipe gestures, and restored focus.
 - Scroll-triggered reveals, a scrolling studio ribbon, and reading progress.
@@ -37,9 +37,9 @@ Set `index.html` as the default document. No URL rewrites or server-side code ar
 
 ## Content sources
 
-Catalog and screenshots: [Uniline Games on Google Play](https://play.google.com/store/apps/dev?id=8556297894808618230), checked on 2026-10-07. Detailed sources are recorded in `sources.json`.
+Catalog and screenshots: [Uniline Games on Google Play](https://play.google.com/store/apps/dev?id=8556297894808618230), checked on 2026-10-07. Pocket Atlas, Hex Cascade: Island Puzzle, and Chubby Bird 3D were refreshed from their live Google Play pages on 2026-10-28. The remaining entries retain their original verification date. Detailed sources and per-project dates are recorded in `sources.json`.
 
-The current live listings also include Pocket Atlas. DoomDivers, Tiny Rails, and Catch or Fall returned HTTP 404 during direct checks; their screenshots were available from the indexed Google Play pages. These projects are retained in the portfolio without an install button. This does not assume that they were permanently removed or are unavailable in every region.
+The portfolio includes Pocket Atlas with its updated connected-route puzzles, plus Hex Cascade: Island Puzzle and Chubby Bird 3D. Each of these three projects has a four-image gallery and a local app icon. DoomDivers, Tiny Rails, and Catch or Fall returned HTTP 404 during direct checks; their screenshots were available from the indexed Google Play pages. These projects are retained in the portfolio without an install button. This does not assume that they were permanently removed or are unavailable in every region.
 
 What If is an entertainment app and appears as an experiment, rather than being described as a game. No ratings, download counts, awards, or other unverified studio achievements are displayed.
 
@@ -48,3 +48,5 @@ Game artwork belongs to its respective owners. Unbounded and Manrope are redistr
 ## Validation
 
 Checked in Chrome at widths 320, 390, 580, 768, 1024, 1440, and 1920 px. Verified featured selection, every genre filter, preview/gallery navigation, unavailable store behavior, Escape, mobile navigation, image loading, reduced motion, no-JavaScript visibility, and direct `file://` operation.
+
+Content refresh on 2026-10-28: verified the 12-project count, every genre filter, all four screenshots and store links for Pocket Atlas, Hex Cascade, and Chubby Bird 3D, and the refreshed Pocket Atlas featured scene. Checked desktop rendering at 1280 px and mobile layouts at 390 and 320 px, with no horizontal overflow or browser errors.

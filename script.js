@@ -2,6 +2,18 @@
   'use strict';
   const games = [
   {
+    "slug": "forbidden-island",
+    "name": "Forbidden Island",
+    "subtitle": "Lost artefact",
+    "category": "strategy",
+    "genre": "Strategy · Co-op",
+    "color": "#C5E1DA",
+    "storeUrl": "https://unilinegames.itch.io/forbiddenisland",
+    "storeLabel": "Play on itch.io",
+    "description": "Guide a crew of robots across a sinking island in a cooperative, turn-based adventure. Recover four energy cores, protect your escape routes, and evacuate together. Play solo with bots or invite friends with a room code.",
+    "count": 5
+  },
+  {
     "slug": "hex",
     "name": "Hex Cascade",
     "subtitle": "Island Puzzle",
@@ -243,7 +255,9 @@
     $('#dialog-description').textContent = activeGame.description;
     $('#dialog-genre').textContent = activeGame.genre;
     dialog.style.setProperty('--dialog-color', activeGame.color);
-    $('#dialog-store').href = 'https://play.google.com/store/apps/details?id=' + activeGame.id;
+    dialog.dataset.layout = activeGame.portrait ? 'portrait' : 'landscape';
+    $('#dialog-store').href = activeGame.storeUrl || 'https://play.google.com/store/apps/details?id=' + activeGame.id;
+    $('#dialog-store-label').textContent = activeGame.storeLabel || 'View on Google Play';
     $('#dialog-store').hidden = !!activeGame.unavailable;
     $('#dialog-unavailable').hidden = !activeGame.unavailable;
     renderScreenshot();

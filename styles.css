@@ -17,4 +17,4 @@ h1,h2{word-spacing:.075em}
 .world-band{transform:none;clip-path:polygon(0 18%,100% 0,100% 82%,0 100%);padding-top:26px;padding-bottom:26px}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.js .reveal.is-pending{opacity:1;transform:none}.game-card,.scene-stage{transform:none!important}.world-band-track{transform:translateX(-30px)!important}}
 html.motion-off{scroll-behavior:auto}.motion-off *,.motion-off *:before,.motion-off *:after{animation:none!important;transition:none!important}.motion-off .reveal{opacity:1!important;transform:none!important}.motion-off .game-card,.motion-off .scene-stage{transform:none!important}.motion-off .world-band-track{transform:translateX(-30px)!important}
-
+.game-dialog[data-layout=landscape] .dialog-gallery>img{height:auto}

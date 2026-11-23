@@ -4,7 +4,7 @@ A complete English-language static portfolio. No framework, build step, npm depe
 
 ## Preview
 
-Open `index.html` directly in a browser. All scripts, fonts, and images are local; the site also works offline. External Google Play links and email links require the appropriate external service.
+Open `index.html` directly in a browser. All scripts, fonts, and images are local; the site also works offline. External Google Play links, itch.io links, and email links require the appropriate external service.
 
 For a local HTTP preview, run `python -m http.server 8080` from this directory, then open `http://localhost:8080`.
 
@@ -19,7 +19,7 @@ Set `index.html` as the default document. No URL rewrites or server-side code ar
 ## Features
 
 - Three featured worlds with manual switching and subtle pointer movement.
-- Twelve projects, genre filters, real app icons, and screenshot previews.
+- Thirteen projects, genre filters, local project artwork, and screenshot previews.
 - Hover screenshot transitions and restrained card tilt.
 - Native modal gallery with keyboard arrows, Escape, swipe gestures, and restored focus.
 - Scroll-triggered reveals, a scrolling studio ribbon, and reading progress.
@@ -30,12 +30,15 @@ Set `index.html` as the default document. No URL rewrites or server-side code ar
 
 - Update page text, links, metadata, and the static project cards in `index.html`.
 - Update the `games` array at the beginning of `script.js` for the featured screen and gallery data. Keep its entries consistent with the HTML cards.
-- Set `unavailable: false` and restore the card's Google Play link when a listing becomes available again.
+- Use `storeUrl` and `storeLabel` for projects hosted outside Google Play; entries with an Android `id` keep the default Google Play link and label.
+- Set `unavailable: false` and restore the card's store link when a listing becomes available again.
 - Colors, spacing, typography, and breakpoints are in `styles.css`.
 - Replace screenshots with the same filenames in `assets/`, or update both HTML and JavaScript references.
 - The contact email `myworkakk@gmail.com` comes from the public Google Play support listing. Change it in the HTML if a different studio contact is preferred.
 
 ## Content sources
+
+Forbidden Island: Lost artefact was added from [its itch.io page](https://unilinegames.itch.io/forbiddenisland), checked on 2026-11-23. It is presented as a browser prototype in the Strategy filter, with a play link, the official cover, and five gameplay screenshots. Its small card thumbnail is cropped from the cover.
 
 Catalog and screenshots: [Uniline Games on Google Play](https://play.google.com/store/apps/dev?id=8556297894808618230), checked on 2026-10-07. Pocket Atlas, Hex Cascade: Island Puzzle, and Chubby Bird 3D were refreshed from their live Google Play pages on 2026-10-28. The remaining entries retain their original verification date. Detailed sources and per-project dates are recorded in `sources.json`.
 
@@ -50,3 +53,5 @@ Game artwork belongs to its respective owners. Unbounded and Manrope are redistr
 Checked in Chrome at widths 320, 390, 580, 768, 1024, 1440, and 1920 px. Verified featured selection, every genre filter, preview/gallery navigation, unavailable store behavior, Escape, mobile navigation, image loading, reduced motion, no-JavaScript visibility, and direct `file://` operation.
 
 Content refresh on 2026-10-28: verified the 12-project count, every genre filter, all four screenshots and store links for Pocket Atlas, Hex Cascade, and Chubby Bird 3D, and the refreshed Pocket Atlas featured scene. Checked desktop rendering at 1280 px and mobile layouts at 390 and 320 px, with no horizontal overflow or browser errors.
+
+Content refresh on 2026-11-23: verified the 13-project count, all six genre filters, all five Forbidden Island screenshots including wraparound, the itch.io play link, Google Play label reset, unavailable listings, and Escape. Checked desktop and 320 px mobile layouts with no horizontal overflow or browser errors. Landscape galleries now preserve the screenshot aspect ratio.

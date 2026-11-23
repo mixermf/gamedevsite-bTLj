@@ -255,6 +255,45 @@
           "source": "https://play-lh.googleusercontent.com/u91RVF6m3aVT7b6o4yBFGaze1GOmE_aw8H83ciF7t9PaXw--uKvNKSoH_v__YpmGMDoNxM7F16FmZYJ_RyRiqA=w720-h1280-rw"
         }
       ]
+    },
+    {
+      "slug": "forbidden-island",
+      "title": "Forbidden Island: Lost artefact",
+      "url": "https://unilinegames.itch.io/forbiddenisland",
+      "checked": "2026-11-23",
+      "platform": "HTML5",
+      "status": "Prototype",
+      "files": [
+        {
+          "file": "forbidden-island-cover.webp",
+          "source": "https://img.itch.zone/aW1nLzMyNDk0MjI5LmpwZw==/original/W%2FbcUa.jpg"
+        },
+        {
+          "file": "forbidden-island-1.webp",
+          "source": "https://img.itch.zone/aW1hZ2UvNTM2NDU3MS8zMjUwMTU3MC5wbmc=/original/ScKnBf.png"
+        },
+        {
+          "file": "forbidden-island-2.webp",
+          "source": "https://img.itch.zone/aW1hZ2UvNTM2NDU3MS8zMjUwMTU3MS5wbmc=/original/Iu%2Fbyo.png"
+        },
+        {
+          "file": "forbidden-island-3.webp",
+          "source": "https://img.itch.zone/aW1hZ2UvNTM2NDU3MS8zMjUwMTU3Mi5wbmc=/original/4pDgHC.png"
+        },
+        {
+          "file": "forbidden-island-4.webp",
+          "source": "https://img.itch.zone/aW1hZ2UvNTM2NDU3MS8zMjUwMTU2OS5wbmc=/original/cLJ69V.png"
+        },
+        {
+          "file": "forbidden-island-5.webp",
+          "source": "https://img.itch.zone/aW1hZ2UvNTM2NDU3MS8zMjUwMTU2OC5wbmc=/original/e3jeNN.png"
+        },
+        {
+          "file": "forbidden-island-icon.webp",
+          "source": "https://img.itch.zone/aW1nLzMyNDk0MjI5LmpwZw==/original/W%2FbcUa.jpg",
+          "processing": "240-pixel square thumbnail cropped from the official itch.io cover artwork."
+        }
+      ]
     }
   ],
   "privacyPolicy": {
@@ -263,6 +302,6 @@
     "path": "/policy",
     "changes": "Added a prominent Privacy Policy heading before the unchanged original document body."
   },
-  "lastUpdated": "2026-10-28",
-  "updateNote": "Pocket Atlas artwork and description refreshed; Hex Cascade and Chubby Bird 3D added from live Google Play listings. Other projects retain their original verification date."
+  "lastUpdated": "2026-11-23",
+  "updateNote": "Forbidden Island: Lost artefact added from its itch.io page, with a browser play link, prototype status, cover artwork, and five gameplay screenshots. Other projects retain their previous verification dates."
 }
